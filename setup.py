@@ -5,7 +5,7 @@ setup(
     description='backports shutil chown (mainly for Python2)',
     long_description=open("README.md").read(),
     long_description_content_type='text/markdown',
-    version='0.0.0.4',
+    version='0.0.0.5',
     url='https://github.com/cielavenir/backports.shutil_chown',
     license='PSF',
     author='cielavenir',
